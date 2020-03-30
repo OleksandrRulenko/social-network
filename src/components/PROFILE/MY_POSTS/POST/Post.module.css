@@ -1,0 +1,9 @@
+
+.item {
+    color: rgb(214, 192, 228);
+}
+
+.item img {
+    max-width: 50px;
+    border-radius: 30px;
+}

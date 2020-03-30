@@ -1,0 +1,14 @@
+
+.usersPage {
+    padding: 10px;
+ 
+}
+
+.usersItem {
+    margin: 5px;
+    border-bottom: solid rgb(112, 114, 129) 1px;
+}
+
+.usersPhoto {
+    max-width: 50px;
+}
